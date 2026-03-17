@@ -98,7 +98,7 @@ O sistema entrega:
 
 ## 🎥 Apresentação
 🔗 Acesse a apresentação do projeto:
-Canva - Apresentação
+[Canva - Apresentação](https://www.canva.com/design/DAGiFILNXUo/c-BhRaL-TJa5lN-LUoOlNg/edit?utm_content=DAGiFILNXUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## ✅ Conclusão
 Este projeto demonstra como a análise de dados pode ser aplicada de forma prática para:
